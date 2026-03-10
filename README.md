@@ -1,6 +1,6 @@
 - 👋 Hallo, I’m Christoph
 - 👀 I’m interested in esphome, TCL, Rust
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Gitops and TypeScript
 - 📫 How to reach me: AT pisi_de AT dresden.network
 
 <!---
